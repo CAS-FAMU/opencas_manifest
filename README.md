@@ -37,3 +37,5 @@ http://log.bleu255.com/2013/04/07/free-culture-informal-and-formal-art-design-ed
 http://eightycolumn.net/
 
 http://teachingopensource.org/
+
+http://criticalengineering.org/
