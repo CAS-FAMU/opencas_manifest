@@ -1,3 +1,4 @@
+
 ##Praktika CAS
 
 ###anotace
@@ -16,6 +17,19 @@ Georgy Bagdasarov, Kryštof Pešek, Jonáš Svatoš
 
 ##
 
+##Pentium FLOSS (nápad Miloš, improvizovaná imaginace Matěj)
+
+– alternuje s Pentiem Nových médií?
+
+Dějiny a praxe výpočetních infrastruktur, postupů a jejich reflexe
+Kombinace přednášek, četby a dílčích úvodů do kancelářských, uměleckých a obecně uživatelských FLOSS nástrojů (inspirace u Michala Cába?)
+
 
 
 ##odkazy
+
+http://log.bleu255.com/2013/04/07/free-culture-informal-and-formal-art-design-education-libre-graphics-meeting-wdka/
+
+http://eightycolumn.net/
+
+http://teachingopensource.org/
