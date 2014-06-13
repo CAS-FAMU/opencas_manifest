@@ -24,6 +24,8 @@ Georgy Bagdasarov, Kryštof Pešek, Jonáš Svatoš
 – alternuje s Pentiem Nových médií?
 
 Dějiny a praxe výpočetních infrastruktur, postupů a jejich reflexe
+
+
 Kombinace přednášek, četby a dílčích úvodů do kancelářských, uměleckých a obecně uživatelských FLOSS nástrojů (inspirace u Michala Cába?)
 
 
