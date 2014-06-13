@@ -17,7 +17,9 @@ Georgy Bagdasarov, Kryštof Pešek, Jonáš Svatoš
 
 ##
 
-##Pentium FLOSS (nápad Miloš, improvizovaná imaginace Matěj)
+##Pentium FLOSS 
+
+(nápad Miloš, improvizovaná imaginace Matěj)
 
 – alternuje s Pentiem Nových médií?
 
