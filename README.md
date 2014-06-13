@@ -38,4 +38,4 @@ http://eightycolumn.net/
 
 http://teachingopensource.org/
 
-http://criticalengineering.org/
+http://criticalengineering.org/ (přeložit do cs?)
